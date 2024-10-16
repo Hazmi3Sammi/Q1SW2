@@ -1,0 +1,61 @@
+h1{
+			text-align: center;
+			font-size: 50px;
+			background-color: mediumvioletred;
+		}
+		p{
+			text-align: center;
+		}
+		h2{
+			text-align: center;
+			
+		}
+		h3{
+			text-align: center;
+		}
+		h4{
+			text-align: center;
+		}
+		label{
+			text-align: center;
+		}
+		#pr1{
+			text-align: center;
+			font-size: 27px;
+		}
+		#pr2{
+			text-align: left;
+			font-size: 20px;
+		}
+		#pr3{
+			font-size: 17px;
+		}
+		img{
+			margin: auto;
+			display: inline-block;
+
+		}
+		.container{
+			display: flex;
+			column-gap: 50px;
+			justify-content: center;
+		}
+		textarea{
+			text-align: center;
+		}
+
+
+		a {
+			text-align: center;
+		}
+		body {
+			background-image: url(https://static01.nyt.com/images/2019/01/04/arts/04grave1/merlin_148555677_8f4ad2ce-9e3a-4c44-bf1b-24c3c1c51192-superJumbo.jpg?quality=75&auto=webp);
+		}
+		.container2{
+	background-color: skyblue;
+	width: 350px;
+	padding: 10px;
+	margin: auto;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
+	border: 15px dotted darkblue;
+}
